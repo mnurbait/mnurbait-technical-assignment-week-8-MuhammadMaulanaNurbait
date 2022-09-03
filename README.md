@@ -1,1 +1,0 @@
-# mnurbait-technical-assignment-week-8-MuhammadMaulanaNurbait

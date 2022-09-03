@@ -1,5 +1,5 @@
 import paho.mqtt.client as mqtt
-from ultrasonic import hcr
+from sensorultrasonic import hcr
 from time import sleep 
 
 # define static variable
